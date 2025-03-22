@@ -2,3 +2,5 @@
 
 testing of vscode and github
 testing again after branch newbranch created
+
+line added to newbranch after line added in github
